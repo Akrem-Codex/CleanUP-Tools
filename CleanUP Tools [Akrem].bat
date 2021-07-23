@@ -20,7 +20,7 @@ color 9
 ************************
 cls
 echo.
-echo.   Coded File By Akrem, https://github.com/Akrem-Coder  
+echo.   Coded File By Akrem, https://github.com/Akrem-Codex  
 echo. _______________________________________________________
 echo. .                SPEED UP YOUR COMPUTER               .
 echo. _______________________________________________________
